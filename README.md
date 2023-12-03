@@ -1,2 +1,2 @@
 # ping-pong
-dentcik neger
+denchik neger
